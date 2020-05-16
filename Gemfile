@@ -19,6 +19,8 @@ gem "bcrypt", "~> 3.1", ">= 3.1.13"
 gem "hirb"
 gem "pry"
 gem "faker", "~> 2.11"
+gem "will_paginate", "~> 3.1.0"
+gem "will_paginate-bootstrap", "~> 1.0", ">= 1.0.2"
 gem "bootsnap", ">= 1.1.0", require: false
 
 group :development, :test do
