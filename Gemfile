@@ -18,6 +18,7 @@ gem "jquery-rails"
 gem "bcrypt", "~> 3.1", ">= 3.1.13"
 gem "hirb"
 gem "pry"
+gem "faker", "~> 2.11"
 gem "bootsnap", ">= 1.1.0", require: false
 
 group :development, :test do
